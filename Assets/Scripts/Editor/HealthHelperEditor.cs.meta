@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 8ee2bb7dbe6036c41be28659b8a13477
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - StrenghtTexsture2D: {fileID: 2800000, guid: 695d251fbe8969b4ab4f61d87161a5df, type: 3}
+  - AgilityTexsture2D: {fileID: 2800000, guid: f21ae36efc1ab2f46bf4bf5e1063740d, type: 3}
+  - IntellectTexsture2D: {fileID: 2800000, guid: 3fe898dbbb4bc314394975afac06715f, type: 3}
+  - MaxHealthTexsture2D: {fileID: 2800000, guid: 153d0ec750ed77a448a0c8418c610255, type: 3}
+  - ConstHealthTexsture2D: {fileID: 2800000, guid: 26a52be11f419244eb3d924e685553a0, type: 3}
+  - HealthTexsture2D: {fileID: 2800000, guid: f34f225789fda4649bed48a9235fe8ff, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
